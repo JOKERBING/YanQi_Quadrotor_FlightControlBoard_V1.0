@@ -1,4 +1,4 @@
-# YanQi Flight Control Board V1.0
+# YanQi Quadrotor Flight Control Board V1.0
 
 配合NxtPX4飞控板使用的一款扩展板。
 
